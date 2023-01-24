@@ -31,3 +31,5 @@ yarn-error.log*
 debug.log
 
 src/assets/persons.json
+Submissions/@Nazmul6180.json
+*.json
